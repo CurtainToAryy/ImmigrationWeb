@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>圣基茨移民局局长见面会即将举行-维基移民</title>
+    <meta name="keywords" content="维基,圣基茨, 投资移民" />
+    <meta name="description" content="重要消息!重要消息!为了给广大投资者提供完善的移民服务，维基举办的圣基茨移民局局长见面会，5月20日，即将举行！" />
+    <link href="../../../Content/css/global.css" rel="stylesheet" type="text/css" />
+    <link href="../../../Content/css/layout.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    <div class="index_new_header">
+        <div class="index_new_header_top">
+            <div class="logo">
+                <a class="wwlogo" href="javascript:;" title="维基移民">维基移民</a>
+                <a class="assess" href="../../country/minute.html" target="_blank">移民评估</a>
+                <a class="tel_s" href="../../assessdetail.html">获取资料</a>
+                <a class="tel" href="javascript:;">400-616-0125</a>
+            </div>
+        </div>
+        <div class="index_new_header_navi">
+            <ul>
+                <li class="index">
+                    <a href="../../index.html" target="_blank"><em>首 页</em></a>
+                </li>
+                <li>
+                    <a href="javascript:;"><em>美洲移民</em></a>
+                    <div class="ddl">
+                        <a class="hover" href="javascript:;"><em>美洲移民</em></a>
+                        <a class="second" href="../../country/usa.html" target="_blank">美国移民</a>
+                        <a class="second last" href="../../country/canada.html" target="_blank">加拿大移民</a>
+                    </div>
+                </li>
+                <li>
+                    <a href="javascript:;"><em>欧洲移民</em></a>
+                    <div class="ddl">
+                        <a class="hover" href="javascript:;"><em>欧洲移民</em></a>
+                        <a class="second" href="../../country/greece.html" target="_blank">希腊移民</a>
+                        <a class="second" href="../../country/malta.html" target="_blank">马耳他移民</a>
+                        <a class="second" href="../../country/cyprus.html" target="_blank">塞浦路斯移民</a>
+                        <a class="second" href="../../country/portugal.html" target="_blank">葡萄牙移民</a>
+                        <a class="second" href="../../country/spain.html" target="_blank">西班牙移民</a>
+                        <a class="second last" href="../../country/ireland.html" target="_blank">爱尔兰移民</a>
+                    </div>
+                </li>
+                <li>
+                    <a href="javascript:;"><em>英联邦移民</em></a>
+                    <div class="ddl">
+                        <a class="hover" href="javascript:;"><em>英联邦移民</em></a>
+                        <a class="second last" href="../../country/kitts.html" target="_blank">圣基茨移民</a>
+                    </div>
+                </li>
+                <li>
+                    <a href="http://vip.wikigo.com.cn/2019050573HD1811/index.html" target="_blank"><em>泰国移民</em></a>
+                    <div class="ddl">
+                        <a class="hover" href="http://vip.wikigo.com.cn/2019050573HD1811/index.html" target="_blank"><em>泰国移民</em></a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="wss_anliList">
+        <div class="yny_top">
+            <div class="yny_topcont">
+                <p>
+                    <img src="../../../Content/images/ypic01.jpg" width="19" height="15" />
+                    <a href="../../index.html">维基首页&nbsp;</a>
+                    <a href="../../country/usa.html">&gt;&nbsp;美国</a>
+                    <a href="javascript:;">&gt;&nbsp;美国E2签证：实现快速移居美国</a>
+                </p>
+            </div>
+        </div>
+        <div class="yny">
+            <div class="ycase_wrap">

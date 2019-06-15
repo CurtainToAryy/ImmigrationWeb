@@ -1,0 +1,33 @@
+
+<div id="left" class="ycase_right">
+ <img src="../../../Content/images/aside_bg.jpg" alt="" style="width: 313px;">
+                </div>
+</div>
+ </div>
+        </div>
+    </div>
+   <div class="index_new_footer" style="height: auto;">
+        <div class="index_new_footer_div">
+            <div class="index_new_footer_div_top">
+                <dl>
+                    <dd>热门移民国家地区</dd>
+                    <dt>
+                        <a href="../../country/usa.html" rel="nofollow" target="_blank">美国</a><em>|</em>
+                        <a href="../../country/canada.html" rel="nofollow" target="_blank">加拿大</a><em>|</em>
+                        <a href="../../country/greece.html" rel="nofollow" target="_blank">希腊</a><em>|</em>
+                        <a href="../../country/malta.html" rel="nofollow" target="_blank">马耳他</a><em>|</em>
+                        <a href="../../country/cyprus.html" rel="nofollow" target="_blank">塞浦路斯</a><em>|</em>
+                        <a href="../../country/portugal.html" rel="nofollow" target="_blank">葡萄牙</a><em>|</em>
+                        <a href="../../country/spain.html" rel="nofollow" target="_blank">西班牙</a><em>|</em>
+                        <a href="../../country/ireland.html" rel="nofollow" target="_blank">爱尔兰</a><em>|</em>
+                        <a href="../../country/kitts.html" rel="nofollow" target="_blank">圣基茨</a>
+                    </dt>
+                </dl>
+                <p style="text-align: center;margin-top: 10px;">? Copyright 2019 维基国际 <a href="http://www.beian.miit.gov.cn/" target="_blank">沪ICP备19006462号</a> </p>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="../../../Content/js/jquery-1.7.1.min.js"></script>
+<script src="../../../Content/js/country.js"></script>
+</html>

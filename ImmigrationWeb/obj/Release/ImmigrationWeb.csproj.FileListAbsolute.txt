@@ -1,0 +1,9 @@
+F:\工作\ImmigrationWeb\ImmigrationWeb\bin\Release\ImmigrationWeb.exe.config
+F:\工作\ImmigrationWeb\ImmigrationWeb\bin\Release\ImmigrationWeb.exe
+F:\工作\ImmigrationWeb\ImmigrationWeb\bin\Release\ImmigrationWeb.pdb
+F:\工作\ImmigrationWeb\ImmigrationWeb\bin\Release\HtmlAgilityPack.dll
+F:\工作\ImmigrationWeb\ImmigrationWeb\obj\Release\ImmigrationWeb.csprojAssemblyReference.cache
+F:\工作\ImmigrationWeb\ImmigrationWeb\obj\Release\ImmigrationWeb.csproj.CoreCompileInputs.cache
+F:\工作\ImmigrationWeb\ImmigrationWeb\obj\Release\ImmigrationWeb.csproj.CopyComplete
+F:\工作\ImmigrationWeb\ImmigrationWeb\obj\Release\ImmigrationWeb.exe
+F:\工作\ImmigrationWeb\ImmigrationWeb\obj\Release\ImmigrationWeb.pdb
